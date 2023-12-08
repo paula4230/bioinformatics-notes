@@ -6,4 +6,4 @@ Start Date: Dec 9, 2023
 Course: Finding Hidden Messages in DNA (Bioinformatics I) 
 An online course from UCLA through Coursera
 
-For Science and Technology! :dna: 💻:
+For Science and Technology! 🧬 💻
