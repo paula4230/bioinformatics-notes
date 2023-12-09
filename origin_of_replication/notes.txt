@@ -1,0 +1,9 @@
+Where in the genome does DNA replication begin?
+
+Replication begins in a genomic region called the replication origin (denoted ori) and is carried out by molecular copy machines called DNA polymerases.
+
+Questions:
+1. Where is the ori located?
+2. How does the bacterial cell know to begin replication exactly in this short region within a larger chromosome?
+
+- replication is mediated by DnaA which binds to a short segment within the ori known as DnaA box
